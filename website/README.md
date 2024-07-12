@@ -8,9 +8,9 @@
 警告：部分版本可能会受实名验证的限制无法进入，可以通过连接假热点（关闭移动数据和wifi后分享的热点）来绕过。
 <br>
 ## 我要如何下载它们？
-[**↗️前往Github的release仓库**](https://github.com/YimingOvO/Phigros-history-For-iOS/releases)
+[**↗️123网盘↗️**](https://www.123pan.com/s/u4bLVv-hrnp3.html)
 <br>
-## 一些说明
+## 安装说明
 因为苹果的限制，ipa包无法直接安装，但可以通过以下方法安装：
 <br>
 
