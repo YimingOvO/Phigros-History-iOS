@@ -28,6 +28,6 @@
 
 ## 找不到所有版本？<br>
 您可以通过Phigros-history@outlook.com来联系我添加新版本。<br>
-**同样也可以**[**轻点此处**](https://github.com/SteveZMTstudios/Phigros-history/issues/new/choose)**发起issue来提醒我们更新相关的Phigros组件。**（***推荐***）
+**同样也可以**[**轻点此处**](https://github.com/YimingOvO/Phigros-History-iOS/issues/new)**发起issue来提醒我们更新相关的Phigros组件。**（***推荐***）
 <br>
 > 版权归属于&copy;南京鸽游网络有限公司。[公司主页](https://pigeon-games.com/?utm_source=Phigros-history&utm_medium=OfficialWebsite&utm_campaign=Android) [隐私政策](https://pigeon-games.com/news/2)
